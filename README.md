@@ -3,7 +3,7 @@
 > A full-featured personal finance tracker built with **React.js** — track expenses, set budgets, visualize spending with charts, and manage your money smarter.
 
 🌐 **Live Demo:** [https://Yogeshmanikanta.github.io/expense-tracker](https://YOUR-GITHUB-USERNAME.github.io/expense-tracker)
-> ⚠️ Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username after deploying.
+
 
 📁 **GitHub Repository:** [https://github.com/Yogeshmanikanta/expense-tracker]
 
@@ -318,7 +318,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR-GITHUB-USERNAME](https://github.com/Yogeshmanikanta/expense-tracker)
+- GitHub: (https://github.com/Yogeshmanikanta/expense-tracker)
 
 
 ---
